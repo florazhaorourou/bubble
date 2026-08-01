@@ -1,0 +1,25 @@
+{
+  "name": "话图",
+  "short_name": "话图",
+  "description": "用语音把想法长成图",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E4EDFF",
+  "theme_color": "#E4EDFF",
+  "icons": [
+    {
+      "src": "./blurt-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./blurt-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
